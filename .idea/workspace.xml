@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c7d9f1d-1bb8-418c-88ad-6d6163f06b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,31 +27,38 @@
     <session id="1843080507">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="MaximumPairwiseProduct" value="1" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="821" />
+          <entry key="MaximumPairwiseProduct" value="36" />
+          <entry key="java" value="4710" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="821" />
+          <entry key="JAVA" value="4710" />
+          <entry key="PLAIN_TEXT" value="36" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -53,37 +67,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="345">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="90">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,8 +136,19 @@
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>long</find>
+      <find>double</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>double</replace>
+      <replace>BigInteger</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,11 +159,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/common/Annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/StatisticsMessure.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/StartAlgoritm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/TimeMessurer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/APlusB.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/FInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/SomeClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberRun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java" />
       </list>
     </option>
   </component>
@@ -131,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,6 +239,39 @@
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weeks2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -188,19 +281,38 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549718642618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551211524096" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.weeks2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,13 +326,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="StatisticsMessure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.common.StatisticsMessure" />
+  <component name="RunManager" selected="JUnit.GreatestCommonDivisorTest">
+    <configuration name="FibbonacciNumberRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weeks2.FibbonacciNumberRun" />
       <module name="AlgorithmicToolboxCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.common.*" />
+          <option name="PATTERN" value="com.weeks2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,9 +340,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GreatestCommonDivisorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolboxCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weeks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weeks2" />
+      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolboxCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weeks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weeks2" />
+      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
+      <option name="METHOD_NAME" value="alternativeFor3918848and1653264ShouldGive61232" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisorTest.calculateGCD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolboxCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weeks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weeks2" />
+      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
+      <option name="METHOD_NAME" value="calculateGCD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolboxCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weeks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weeks2" />
+      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
+      <option name="METHOD_NAME" value="for3918848and1653264ShouldGive61232" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FibbonacciNumberRun" />
+      <item itemvalue="JUnit.GreatestCommonDivisorTest.calculateGCD" />
+      <item itemvalue="JUnit.GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" />
+      <item itemvalue="JUnit.GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" />
+      <item itemvalue="JUnit.GreatestCommonDivisorTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StatisticsMessure" />
+        <item itemvalue="JUnit.GreatestCommonDivisorTest" />
+        <item itemvalue="JUnit.GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" />
+        <item itemvalue="JUnit.GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" />
+        <item itemvalue="JUnit.GreatestCommonDivisorTest.calculateGCD" />
+        <item itemvalue="Application.FibbonacciNumberRun" />
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +442,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 33m 01s.xml">
+      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 40m 26s.xml">
+      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 43m 37s.xml">
+      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 07m 49s.xml">
+      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 24m 21s.xml">
+      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 30m 22s.xml">
+      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 32m 34s.xml">
+      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 32m 36s.xml">
+      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest_alternativeFor3918848and1653264ShouldGive61232 - 2019.02.26 at 21h 02m 47s.xml">
+      <configuration name="GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreatestCommonDivisorTest - 2019.02.26 at 21h 05m 27s.xml">
+      <configuration name="GreatestCommonDivisorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29330382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -293,35 +510,244 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>IntStream.range(smallerNum,0).toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(smallerNum,0).boxed().toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(smallerNum,0).collect()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(smallerNum,0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/common/Interface.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/common/Annotation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/common/StatisticsMessure.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/lang/FunctionalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="485">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/BinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/UnaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/FInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/SomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="390">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
