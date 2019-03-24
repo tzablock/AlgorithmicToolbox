@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7d9f1d-1bb8-418c-88ad-6d6163f06b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java" afterDir="false" />
+    <list default="true" id="394cfbd2-5a27-4ec3-a5ad-794bdb3fd28a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnionWeighted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFindOnSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmicToolboxCourse.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,106 +22,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1843080507">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="MaximumPairwiseProduct" value="1" />
-          <entry key="java" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="24" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="MaximumPairwiseProduct" value="36" />
-          <entry key="java" value="4710" />
-          <entry key="xml" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="4710" />
-          <entry key="PLAIN_TEXT" value="36" />
-          <entry key="XML" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFindOnSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnionWeighted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            <state relative-caret-position="344">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            <state relative-caret-position="31">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,22 +120,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="JUnit5 Test Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>long</find>
-      <find>double</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>double</replace>
-      <replace>BigInteger</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -156,39 +131,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/common/Annotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/StatisticsMessure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/StartAlgoritm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/TimeMessurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/DynamicConnectivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/DynamicConnectivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/DynamicConnectivityRun.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/week1/APlusB.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct" />
-        <option value="$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/FInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/SomeClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberRun.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Component.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFindOnSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFindArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionQuickFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Start.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnionWeighted.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="293" />
-    <option name="y" value="53" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -198,46 +166,37 @@
           <expand>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -246,73 +205,28 @@
             </path>
             <path>
               <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmicToolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weeks2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="week1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicToolboxCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicToolboxCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicConnectivity" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551211524096" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553346544231" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.weeks2" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -326,13 +240,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GreatestCommonDivisorTest">
-    <configuration name="FibbonacciNumberRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weeks2.FibbonacciNumberRun" />
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.week1.dynamicConnectivity.Start" />
       <module name="AlgorithmicToolboxCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.weeks2.*" />
+          <option name="PATTERN" value="com.week1.dynamicConnectivity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,232 +254,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicToolboxCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weeks2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.weeks2" />
-      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicToolboxCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weeks2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.weeks2" />
-      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
-      <option name="METHOD_NAME" value="alternativeFor3918848and1653264ShouldGive61232" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreatestCommonDivisorTest.calculateGCD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicToolboxCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weeks2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.weeks2" />
-      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
-      <option name="METHOD_NAME" value="calculateGCD" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicToolboxCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weeks2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.weeks2" />
-      <option name="MAIN_CLASS_NAME" value="com.weeks2.GreatestCommonDivisorTest" />
-      <option name="METHOD_NAME" value="for3918848and1653264ShouldGive61232" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.FibbonacciNumberRun" />
-      <item itemvalue="JUnit.GreatestCommonDivisorTest.calculateGCD" />
-      <item itemvalue="JUnit.GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" />
-      <item itemvalue="JUnit.GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" />
-      <item itemvalue="JUnit.GreatestCommonDivisorTest" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GreatestCommonDivisorTest" />
-        <item itemvalue="JUnit.GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" />
-        <item itemvalue="JUnit.GreatestCommonDivisorTest.for3918848and1653264ShouldGive61232" />
-        <item itemvalue="JUnit.GreatestCommonDivisorTest.calculateGCD" />
-        <item itemvalue="Application.FibbonacciNumberRun" />
+        <item itemvalue="Application.Start" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../stackoverflow" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../timeusage" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../wikipedia" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c7d9f1d-1bb8-418c-88ad-6d6163f06b6c" name="Default Changelist" comment="" />
-      <created>1549313365715</created>
+      <changelist id="394cfbd2-5a27-4ec3-a5ad-794bdb3fd28a" name="Default Changelist" comment="" />
+      <created>1551537804129</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549313365715</updated>
+      <updated>1551537804129</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 33m 01s.xml">
-      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 40m 26s.xml">
-      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibbonacciNumberTest - 2019.02.18 at 21h 43m 37s.xml">
-      <configuration name="FibbonacciNumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 07m 49s.xml">
-      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 24m 21s.xml">
-      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 30m 22s.xml">
-      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 32m 34s.xml">
-      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_calculateGCD - 2019.02.25 at 21h 32m 36s.xml">
-      <configuration name="GreatestCommonDivisorTest.calculateGCD" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest_alternativeFor3918848and1653264ShouldGive61232 - 2019.02.26 at 21h 02m 47s.xml">
-      <configuration name="GreatestCommonDivisorTest.alternativeFor3918848and1653264ShouldGive61232" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreatestCommonDivisorTest - 2019.02.26 at 21h 05m 27s.xml">
-      <configuration name="GreatestCommonDivisorTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="0" y="24" width="1440" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29330382" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" sideWeight="0.50209206" side_tool="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286517" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32729805" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28830084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="SBT Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Component.java</url>
+          <line>15</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
-          <line>47</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnionWeighted.java</url>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -573,183 +326,140 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>IntStream.range(smallerNum,0).toArray()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>IntStream.range(smallerNum,0).boxed().toArray()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>IntStream.range(smallerNum,0).collect()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>IntStream.range(smallerNum,0)</expression-string>
+        <expression-string>this.objects.addAll(secComp.objects)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/Interface.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/Annotation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/StatisticsMessure.java" />
-    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/lang/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/StartAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/week1/MaximumPairwiseProduct">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/common/TimeMeasurerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/BinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Software/jdk1.8.0_161/src.zip!/java/util/function/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/FInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/SomeClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/APlusB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/MaximumPairwiseProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/common/TimeMeasurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/GreatestCommonDivisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        <state relative-caret-position="60">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weeks2/FibbonacciNumberRun.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/week2/FibbonacciNumberTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/weeks2/GreatestCommonDivisorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/UnionFindOnSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/week1/dynamicConnectivity/QuickUnionWeighted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -783,7 +493,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.6 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -795,7 +504,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -820,7 +529,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
