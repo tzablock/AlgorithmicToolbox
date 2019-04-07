@@ -1,5 +1,7 @@
 package com.week1.dynamicConnectivity;
 
+import com.week1.algoritms.QuickUnionWeighted;
+
 import java.util.Scanner;
 
 public class Start {

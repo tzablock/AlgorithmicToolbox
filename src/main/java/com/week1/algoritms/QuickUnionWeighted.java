@@ -1,4 +1,6 @@
-package com.week1.dynamicConnectivity;
+package com.week1.algoritms;
+
+import com.week1.dynamicConnectivity.UF;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -25,6 +27,9 @@ public class QuickUnionWeighted implements UF {
         int ri = findRoot(i);
         int wi = weight(ri);
         int wj = weight(rj);
+        if (rj == ri){  // if the same tree no need to merge
+            return;
+        }
         if (wi < wj){
             joinTrees(rj, ri, wi + wj);
             flattenTree(rj, i, j);  // second improvement
