@@ -1,3 +1,5 @@
+package com.week1.excercise1;
+
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
@@ -12,7 +14,7 @@ public class PercolationStats {
             throw new IllegalArgumentException();
         }
         int i = 0;
-        while (trials > 0){
+        while (i < trials){
             this.thresholds[i] = percolationThresholdEstimate(n);
             i++;
         }
